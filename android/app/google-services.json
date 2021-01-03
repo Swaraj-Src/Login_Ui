@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498105161040",
+    "project_id": "login-daf27",
+    "storage_bucket": "login-daf27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498105161040:android:0ed265051c2514de154855",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498105161040-vrbs33ldrg3v0qag7lf57cuocjigq3kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0SV9XtK9yfW6xTOkxmCCkJtY1VVe_jJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498105161040-vrbs33ldrg3v0qag7lf57cuocjigq3kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
